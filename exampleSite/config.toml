@@ -16,7 +16,7 @@ enableRobotsTXT = true
     min = "0.55.0"
 
 [params]
-  google_analytics_id = ""
+  google_analytics_id = "G-Q5JK55808G"
   twitter_handle = ""
   showAuthorOnHomepage = false
   showAuthorOnPosts = false
