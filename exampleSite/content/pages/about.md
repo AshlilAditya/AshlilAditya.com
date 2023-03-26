@@ -1,6 +1,6 @@
 ---
 title: 'About'
-image: images/writer.jpeg
+image: images/ashliladitya.png
 url: "about"
 menu:
   main:
