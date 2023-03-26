@@ -1,12 +1,14 @@
-baseURL = "/"
+baseURL = "https://ashliladitya.com/"
 languageCode = "en-us"
 theme = "hugo-winston-theme"
 themesDir = "themes"
-title = "Hugo Winston Theme"
+title = "Ashlil Aditya"
 paginate = 3
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 pygmentsUseClasses = true
+canonifyURLs = true
+enableRobotsTXT = true
 
 [module]
   [module.hugoVersion]
@@ -15,7 +17,7 @@ pygmentsUseClasses = true
 
 [params]
   google_analytics_id = ""
-  twitter_handle = "@zerostaticio"
+  twitter_handle = ""
   showAuthorOnHomepage = true
   showAuthorOnPosts = false
   showPostsOnHomepage = false
