@@ -1,6 +1,6 @@
 ---
 title: "Blog"
-date: 2019-02-24
+date: 
 menu:
   main:
     name: "Blog"
