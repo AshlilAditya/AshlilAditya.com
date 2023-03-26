@@ -2,7 +2,7 @@ baseURL = "https://ashliladitya.com/"
 languageCode = "en-us"
 theme = "hugo-winston-theme"
 themesDir = "themes"
-title = "Ashlil Aditya"
+title = ""
 paginate = 3
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
@@ -18,7 +18,7 @@ enableRobotsTXT = true
 [params]
   google_analytics_id = ""
   twitter_handle = ""
-  showAuthorOnHomepage = true
+  showAuthorOnHomepage = false
   showAuthorOnPosts = false
   showPostsOnHomepage = false
   addDot = true
