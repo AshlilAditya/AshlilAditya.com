@@ -28,7 +28,7 @@ enableRobotsTXT = true
   baseOffsetColor = "#eaeaea"
   headingColor = "#1c1b1d"
   textColor = "#4e5157"
-  dotColor = "##FF10F0"
+  dotColor = "#FF10F0"
 
 # markdown config settings https://gohugo.io/getting-started/configuration-markup/#goldmark
 [markup]
