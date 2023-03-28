@@ -9,7 +9,7 @@ menu:
 ---
 
 
-Greetings, you Ashlils! 
+Greetings, Ashlils! 
 
 Welcome to our blog, where we tackle taboo topics related to personal wellness, intimacy, orgasm, and sexual art with no judgment or stigma. Our team of passionate writers and contributors is dedicated to exploring these themes in a thoughtful and informative way. We strive to provide a supportive space where individuals can learn, grow, and connect with others who share their experiences and interests, as long as they're into some kinky stuff!
 
