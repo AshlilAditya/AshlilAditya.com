@@ -9,7 +9,9 @@ menu:
 ---
 
 
-Greetings, you Ashlils! Welcome to our blog, where we tackle taboo topics related to personal wellness, intimacy, orgasm, and sexual art with no judgment or stigma. Our team of passionate writers and contributors is dedicated to exploring these themes in a thoughtful and informative way. We strive to provide a supportive space where individuals can learn, grow, and connect with others who share their experiences and interests, as long as they're into some kinky stuff!
+Greetings, you Ashlils! 
+
+Welcome to our blog, where we tackle taboo topics related to personal wellness, intimacy, orgasm, and sexual art with no judgment or stigma. Our team of passionate writers and contributors is dedicated to exploring these themes in a thoughtful and informative way. We strive to provide a supportive space where individuals can learn, grow, and connect with others who share their experiences and interests, as long as they're into some kinky stuff!
 
 At our blog, you will find a diverse range of articles and resources covering a wide spectrum of personal wellness topics, including mental health, self-care, and body positivity. But let's be real, what you're really here for is the good stuff! We delve into the world of intimacy and sexuality with insightful articles on communication, consent, and techniques for achieving pleasure and orgasm. And we're not shy about discussing some more explicit topics, like BDSM and group sex.
 
