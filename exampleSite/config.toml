@@ -23,12 +23,12 @@ enableRobotsTXT = true
   showPostsOnHomepage = false
   addDot = true
   addFrame = true
-  highlightColor = '#FF00FF'
+  highlightColor = '#FF10F0'
   baseColor = "#ffffff"
   baseOffsetColor = "#eaeaea"
   headingColor = "#1c1b1d"
   textColor = "#4e5157"
-  dotColor = "#FF00FF"
+  dotColor = "##FF10F0"
 
 # markdown config settings https://gohugo.io/getting-started/configuration-markup/#goldmark
 [markup]
